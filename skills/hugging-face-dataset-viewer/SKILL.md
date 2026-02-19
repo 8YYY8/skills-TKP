@@ -1,5 +1,5 @@
 ---
-name: hf-dataset-viewer
+name: hugging-face-dataset-viewer
 description: Use this skill for Hugging Face Dataset Viewer API workflows that fetch subset/split metadata, paginate rows, search text, apply filters, download parquet URLs, and read size or statistics.
 ---
 
